@@ -1,5 +1,6 @@
 <?php
 require '../vendor/autoload.php';
+//require 'autoload.php';
 
 $mapi = new Mapi\Client(
     'f06ab4dd89b720ea852547ddfa7f4f4e05b242738', /* $ConsumerKey */
